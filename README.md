@@ -4,9 +4,7 @@
 
 - 👨‍💻 Visit my portfolio site at [https://michael-troia.github.io](https://michael-troia.github.io)
 
-- 🌱 learning **Mobile development w/ libGDX, Java, Android Studio**
-
-- working on [a Java-based Android game, made with libGDX](https://github.com/Michael-Troia/Space-Shooter)
+- 🌱 learning **Modern React With Redux**
 
 - working on [a review of HTML, CSS, JavaScript, MySQL, Java, and Spring](https://github.com/Michael-Troia/Full-Stack-Review)
 
