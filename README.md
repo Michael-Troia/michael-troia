@@ -2,9 +2,9 @@
 
 <h3 align="center">Veteran U.S. Army, Web/software Dev, 3D Graphics, Fellow Human</h3>
 
-- 👨‍💻 Visit my portfolio site at [https://michael-troia.github.io](https://michael-troia.github.io)
+- 👨‍💻 Visit my portfolio site at [michaeltroia.com](https://michaeltroia.com)
 
-- 🌱 learning **Modern React With Redux**
+- 🌱 learning React with [**Modern React With Redux**](https://github.com/Michael-Troia/React-Exercises)
 
 - working on [a review of HTML, CSS, JavaScript, MySQL, Java, and Spring](https://github.com/Michael-Troia/Full-Stack-Review)
 
