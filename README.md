@@ -4,7 +4,7 @@
 
 - 👨‍💻 Visit my portfolio site at [michaeltroia.com](https://michaeltroia.com)
 
-- 🌱 learning React with [**Modern React With Redux**](https://github.com/Michael-Troia/React-Exercises)
+- 🌱 **Currently learning MERN**  with [MERN todo list](https://github.com/Michael-Troia/Todo-With-Mern)
 
 - working on [a review of HTML, CSS, JavaScript, MySQL, Java, and Spring](https://github.com/Michael-Troia/Full-Stack-Review)
 
